@@ -130,10 +130,11 @@ You ar so GREAT[^1].
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
 
-#註解用<!-- XXXXX -->，可多行註解
-
 #跳脫markdown格式用\，ex. \*XXXXX\*，每個要跳脫的markdown語法前都要加
 
-
-
 --->
+<!--
+#註解用<!-- XXXXX -->
+<!--
+#可多行註解
+-->
